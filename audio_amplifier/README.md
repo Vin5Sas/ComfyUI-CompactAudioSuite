@@ -3,11 +3,11 @@
 Five ComfyUI custom nodes, packaged together:
 
 - **General Curve Editor** - a single draggable curve graph plus an
-  interpolation dropdown. Not audio-specific; the curve it produces can
+  interpolation dropdown. the curve it produces can
   be consumed by any node that wants a time-varying value.
 - **Audio Amplifier** - applies that curve as a per-time multiplier on a
   base gain (in dB) to an AUDIO input.
-- **Retime Graph** - an After-Effects-style time-remap graph for
+- **Retime Graph** - an simple time-remap graph for
   variable-speed audio retiming (speed ramps, not just a flat multiplier).
 - **Audio Retimer** - changes audio playback speed/timing, either a
   plain constant rate or a Retime Graph-driven speed ramp.
