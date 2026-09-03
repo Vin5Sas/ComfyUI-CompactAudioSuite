@@ -10,7 +10,7 @@ This repository is a compact set of 5 Audio helper nodes developed for ComfyUI t
   be consumed by any node that wants a time-varying value.
 - **Audio Amplifier** - applies that curve as a per-time multiplier on a
   base gain (in dB) to an AUDIO input.
-- **Retime Graph** - an After-Effects-style time-remap graph for
+- **Retime Graph** - a simple time-remap graph for
   variable-speed audio retiming (speed ramps, not just a flat multiplier).
 - **Audio Retimer** - changes audio playback speed/timing, either a
   plain constant rate or a Retime Graph-driven speed ramp.
