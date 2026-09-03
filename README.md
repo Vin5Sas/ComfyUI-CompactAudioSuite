@@ -6,7 +6,7 @@ This repository is a compact set of 5 Audio helper nodes developed for ComfyUI t
 # Five ComfyUI custom nodes, packaged together:
 
 - **General Curve Editor** - a single draggable curve graph plus an
-  interpolation dropdown. Not audio-specific; the curve it produces can
+  interpolation dropdown. the curve it produces can
   be consumed by any node that wants a time-varying value.
 - **Audio Amplifier** - applies that curve as a per-time multiplier on a
   base gain (in dB) to an AUDIO input.
