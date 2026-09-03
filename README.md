@@ -16,6 +16,10 @@ This repository is a compact set of 5 Audio helper nodes developed for ComfyUI t
   plain constant rate or a Retime Graph-driven speed ramp.
 - **Print Waveform onto Images** - burns a waveform overlay into an
   image sequence, in static/growing/live (oscilloscope) styles.
+
+<img width="1845" height="771" alt="Audio_Compact_Pack_ss" src="https://github.com/user-attachments/assets/0608827a-32ae-4c08-bea1-eb9e86541736" />
+
+
 ---
 
 ## Install
